@@ -1,4 +1,5 @@
 10-powerline-symbols.conf
+PowerlineSymbols.otf
 powerline-shell.py
 *.py[co]
 config.py
